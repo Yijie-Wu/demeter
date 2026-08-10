@@ -1,0 +1,10 @@
+{
+  "description": "health API GET请求测试数据",
+  "request": {
+    "method": "GET",
+    "path": "/api/health/"
+  },
+  "expected": {
+    "status": "healthy"
+  }
+}
